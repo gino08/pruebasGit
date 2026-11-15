@@ -1,3 +1,3 @@
 # pruebasGit
 
-Fichero readme de pruebasGit 4
+Fichero readme de pruebasGit 6
